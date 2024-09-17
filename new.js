@@ -16,7 +16,3 @@ function clear() {
     var k=
     document.getElementById('result').textContent = '0';
 }
-
-// let str =23
-//     var c,d=str.split();
-//     console.log(c,d)
